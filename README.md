@@ -1,4 +1,4 @@
-# skyaml
+# skserialize
 
 This library is intended to help with serializing, storing, reading
 and deserializing the machine learning models of the scikit-learn 
